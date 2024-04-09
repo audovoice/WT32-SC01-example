@@ -24,6 +24,7 @@ Pin info.
 This project can have squareline studio generated project files dopped in to replace the gui. 
 
 This example combines code from several projects.
+
 SC01_Plus_HMI_example
 https://github.com/jaimesbga/SC01_Plus_HMI_example
 
