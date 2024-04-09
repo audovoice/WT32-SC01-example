@@ -13,31 +13,19 @@ WT32-SC01 uses an SPI screen. It has a ESP32-WROVER-B module.
 Pin info.
 
     TFT (ST7796)
-    
         TFT_RST=22
-        
         TFT_SCLK=14
-        
         TFT_DC=21
-        
         TFT_CS=15
-        
         TFT_MOSI=13
-        
         TFT_MISO=-1
-        
         TFT_BCKL=23
-        
     Touch (FT6336U)
-    
         TOUCH_SDA=18
-        
         TOUCH_SCL=19
-        
         I2C_TOUCH_ADDRESS=0x38
+
         
-
-
 This project can have squareline studio generated project files dopped in to replace the gui. 
 
 This example combines code from several projects.
